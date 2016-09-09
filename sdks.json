@@ -1,0 +1,17 @@
+{
+  "sdks":
+  [
+    {"beta": true, "major": "23", "version": "23.0.0.246", "osx": "https://fpdownload.macromedia.com/pub/labs/flashruntimes/air/AIRSDK_Compiler.tbz2", "win": "https://fpdownload.macromedia.com/pub/labs/flashruntimes/air/AIRSDK_Compiler.zip"},
+
+    {"major": "22", "version": "22.0.0.153", "osx": "http://airdownload.adobe.com/air/mac/download/22.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/22.0/AIRSDK_Compiler.zip"},
+    {"major": "21", "version": "21.0.0.215", "osx": "http://airdownload.adobe.com/air/mac/download/21.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/21.0/AIRSDK_Compiler.zip"},
+    {"major": "20", "version": "20.0.0.260", "osx": "http://airdownload.adobe.com/air/mac/download/20.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/20.0/AIRSDK_Compiler.zip"},
+    {"major": "19", "version": "19.0.0.249", "osx": "http://airdownload.adobe.com/air/mac/download/19.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/19.0/AIRSDK_Compiler.zip"},
+    {"major": "18", "version": "18.0.0.199", "osx": "http://airdownload.adobe.com/air/mac/download/18.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/18.0/AIRSDK_Compiler.zip"},
+    {"major": "17", "version": "17.0.0.172", "osx": "http://airdownload.adobe.com/air/mac/download/17.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/17.0/AIRSDK_Compiler.zip"},
+    {"major": "16", "version": "16.0.0.292", "osx": "http://airdownload.adobe.com/air/mac/download/16.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/16.0/AIRSDK_Compiler.zip"},
+    {"major": "15", "version": "15.0.0.178", "osx": "http://airdownload.adobe.com/air/mac/download/15.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/15.0/AIRSDK_Compiler.zip"},
+    {"major": "14", "version": "14.0.0.178", "osx": "http://airdownload.adobe.com/air/mac/download/14.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/14.0/AIRSDK_Compiler.zip"},
+    {"major": "13", "version": "13.0.0.111", "osx": "http://airdownload.adobe.com/air/mac/download/13.0/AIRSDK_Compiler.tbz2", "win": "http://airdownload.adobe.com/air/win/download/13.0/AIRSDK_Compiler.zip"}
+  ]
+}
